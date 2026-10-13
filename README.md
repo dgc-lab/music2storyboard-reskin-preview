@@ -1,5 +1,11 @@
 # Music2Storyboard — Reskin Preview
 
+[![Preview](https://img.shields.io/badge/Preview-live%20site-brightgreen)](https://dgc-lab.github.io/music2storyboard-reskin-preview/?v=7)
+
+**Live preview:** https://dgc-lab.github.io/music2storyboard-reskin-preview/?v=7
+
+**Branch policy:** work happens on the latest `reskin-vN` branch; `main` is the published mirror GitHub Pages serves. Working line: reskin-v7 (merged to main).
+
 ![Reskin preview — current build, dark hero](assets/screenshot.png?v=20261013)
 
 Static design preview of the cinematic reskin concept for music2storyboardgen.com,
