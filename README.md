@@ -1,8 +1,8 @@
 # Music2Storyboard — Reskin Preview
 
-[![Preview](https://img.shields.io/badge/Preview-live%20site-brightgreen)](https://dgc-lab.github.io/music2storyboard-reskin-preview/?v=14)
+[![Preview](https://img.shields.io/badge/Preview-live%20site-brightgreen)](https://dgc-lab.github.io/music2storyboard-reskin-preview/?v=15)
 
-**Live preview:** https://dgc-lab.github.io/music2storyboard-reskin-preview/?v=14
+**Live preview:** https://dgc-lab.github.io/music2storyboard-reskin-preview/?v=15
 
 **Branch policy:** work happens on the latest `reskin-vN` branch; `main` is the published mirror GitHub Pages serves. Working line: reskin-v12 (GitHub default is main).
 
